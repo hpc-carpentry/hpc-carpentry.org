@@ -17,3 +17,55 @@ top:
   - name: Software Carpentry
     url: https://software-carpentry.org/
     weight: 40
+
+# Main menu
+main:
+# Main menu: About
+- identifier: about-us
+  name: About us
+  url: "/"
+  parent: null
+  weight: 10
+- identifier: hpc-carpentry
+  name: HPC Carpentry
+  url: /about-us/
+  weight: 10
+  parent: about-us 
+- identifier: governance
+  name: Governance
+  url: "/about-us/governance/"
+  parent: about-us
+  weight: 20
+- identifier: curriculum-advisors
+  name:  Curriculum Advisors
+  url: "/about-us/curriculum-advisors/"
+  parent: about-us
+  weight: 30
+# Learn Menu
+- identifier: workshops
+  name: Workshops
+  url: "#"
+  parent: null
+  weight: 20
+- identifier: workshops-upcoming
+  name: Upcoming Workshops
+  pageRef: "/workshops/workshops-upcoming/"
+  parent: workshops
+  weight: 10
+- identifier: workshops-past
+  name: Past Workshops
+  pageRef: "/workshops/workshops-past/"
+  parent: workshops
+  weight: 20
+# Lessons menu
+- identifier: lessons
+  name: Lessons
+  url: "/lessons/"
+  weight: 30
+# Donate 
+- identifier: donate
+  name: Donate
+  url: "https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497?utm_source=softwarecarpentry"
+  parent: null
+  weight: 40
+
