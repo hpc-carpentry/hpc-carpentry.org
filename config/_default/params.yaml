@@ -1,0 +1,23 @@
+# Logos
+logo: hpcc_logo.svg 
+logoAlt: HPC Carpentry
+logoFooter: logo-white.svg
+logoFooterAlt: HPC Carpentry  # does not exist yet
+
+footer_overview_text: HPC Carpentry is a lesson program of The Carpentries. 
+
+# git_repo:
+
+team_email: team@carpentries.org
+
+# Other websites
+dc-website: https://datacarpentry.org/
+lc-website:  https://librarycarpentry.org/
+swc-website: https://software-carpentry.org/
+carpentries-website: https://carpentries.org/
+
+# Contact 
+contact: https://carpentries.org/contact
+
+# Donate 
+donate_url: https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497?utm_source=softwarecarpentry
