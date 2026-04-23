@@ -1,0 +1,26 @@
+{
+  "comments": {
+    "dependencies": {},
+    "devDependencies": {
+      "@alpinejs/intersect": "github.com/carpentries/carpentries-hugo-theme",
+      "@tailwindcss/forms": "github.com/carpentries/carpentries-hugo-theme",
+      "@tailwindcss/typography": "github.com/carpentries/carpentries-hugo-theme",
+      "alpinejs": "github.com/carpentries/carpentries-hugo-theme",
+      "postcss": "github.com/carpentries/carpentries-hugo-theme",
+      "postcss-cli": "github.com/carpentries/carpentries-hugo-theme",
+      "tailwindcss": "github.com/carpentries/carpentries-hugo-theme"
+    }
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@alpinejs/intersect": "^3.13.7",
+    "@tailwindcss/forms": "^0.5.7",
+    "@tailwindcss/typography": "^0.5.0",
+    "alpinejs": "^3.13.7",
+    "postcss": "^8.4.35",
+    "postcss-cli": "^11.0.0",
+    "tailwindcss": "^3.4.0"
+  },
+  "name": "hpc-carpentry.org",
+  "version": "0.1.0"
+}
