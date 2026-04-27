@@ -13,6 +13,7 @@ Still needs to be done:
 - [ ] **Lessons:** Update [yaml list](data/curriculum.yaml)  and [lessons page](content/lessons/_index.md)
 - [ ] **Workshops past and workshops upcoming:**  Data source comes from AMY.  [Past workshops page](content/workshops/workshops-past.md) and [upcoming workshops page](content/workshops/workshops-upcoming.md) need to have data source (in yaml frontmatter) and page content updated.   
 - [ ] HPC Carpentry will need to be added to the tabbed menu of the four other websites (Carpentries, DC, LC, SWC).
+- [ ] Add HPC Carpentry to the lesson trademarks in each website's [license file](content/license/_index.md).
 - [ ] Anything else? 
 
 ## General content
