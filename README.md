@@ -12,6 +12,6 @@ Still needs to be done:
 - [ ] **Governance:** Update [yaml list](data/governance.yaml) and [governance page](content/about-us/governance.md)
 - [ ] **Lessons:** Update [yaml list](data/curriculum.yaml)  and [lessons page](content/lessons/_index.md)
 - [ ] **Workshops past and workshops upcoming:**  Data source comes from AMY.  [Past workshops page](content/workshops/workshops-past.md) and [upcoming workshops page](content/workshops/workshops-upcoming.md) need to have data source (in yaml frontmatter) and page content updated.   
-- [ ] HPCC Carpentry will need to be added to the tabbed menu of the four other websites (Carpentries, DC, LC, SWC).
+- [ ] HPC Carpentry will need to be added to the tabbed menu of the four other websites (Carpentries, DC, LC, SWC).
 - [ ] Anything else? 
 
