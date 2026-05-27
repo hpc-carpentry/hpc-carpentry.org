@@ -1,0 +1,31 @@
+people:
+
+- person_name: Andrew Reid
+  position: Chair
+  github: reid-a
+  country: US
+
+- person_name: Annajiat Alim Rasel
+  position:
+  github: annajiat
+  country:  BD
+  
+- person_name: Wirawan Purwanto
+  position: 
+  github: wirawan0
+  country: US
+
+- person_name: Trevor Keller
+  position: 
+  github: tkphd
+  country: US 
+
+- person_name: Nathaniel Porter
+  position:
+  github:	ndporter
+  country: US
+
+- person_name: Alan O'Cais
+  position:
+  github: ocaisa
+  country: ES
