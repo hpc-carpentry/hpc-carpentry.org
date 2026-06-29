@@ -1,0 +1,42 @@
+{{ $all_lessons := site.Data.curriculum.curricula }}
+{{ $curriculum := .Get "curriculum" }}
+{{ $language := .Get "language" }}
+
+<table>
+{{ if eq $language "spanish" }}    
+<thead>
+<tr>
+<th>Lección</th>
+<th>Sitio web</th>
+<th>Repositorio</th>
+<th>Referencia</th>
+<th>Guía del instructor</th>
+<th>Mantenedor(es)</th>
+</tr>
+</thead>
+{{ else }}
+<thead>
+<tr>
+<th>Lesson</th>
+<th>Site</th>
+<th>Repository</th>
+<th>Reference</th>
+<th>Instructor Notes</th>
+<th>Maintainers</th>
+</tr>
+</thead>
+{{ end }}
+<tbody>
+
+{{ range where $all_lessons "curriculum" "eq" $curriculum }}
+<tr>
+    <td>{{ .lessonname }}</td>
+    <td style="text-align: center;"><a href="{{ .site }}"><i class="fas fa-window-maximize"></i></a></td>
+    <td style="text-align: center;"><a href="{{ .repo }}"><i class="fab fa-github"></i></a></td>
+    <td style="text-align: center;"><a href="{{ .ref }}"><i class="fas fa-eye"></i></a></td>
+    <td style="text-align: center;"><a href="{{ .inst_notes }}"><i class="fas fa-plus"></i></a></td>
+    <td>{{ .maintainers }} </td>
+</tr>
+{{ end }}
+</tbody>
+</table>
