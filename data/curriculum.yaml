@@ -1,0 +1,17 @@
+curricula:
+
+- lessonname: Using High-Performance Computing Systems
+  site: https://hpc-carpentry.github.io/hpc-intro/
+  repo: https://github.com/hpc-carpentry/hpc-intro
+  ref: https://hpc-carpentry.github.io/hpc-intro/reference
+  inst_notes: https://hpc-carpentry.github.io/hpc-intro/instructor/instructor-notes
+  maintainers: FIXME, FIXME, etc
+  curriculum: core
+
+- lessonname: HPC Workflow Management with Snakemake
+  site: https://hpc-carpentry.github.io/hpc-workflows/
+  repo: https://github.com/hpc-carpentry/hpc-workflows
+  ref: https://hpc-carpentry.github.io/hpc-workflows/reference
+  inst_notes: https://hpc-carpentry.github.io/hpc-workflows/instructor/instructor-notes
+  maintainers: FIXME, FIXME, etc
+  curriculum: core
