@@ -1,0 +1,32 @@
+[build]
+publish = "public"
+command = "hugo --environment staging --minify"
+
+[build.environment]
+  GO_VERSION = "1.18"
+  NODE_VERSION = "21.1.0"
+  HUGO_VERSION = "0.139.2"
+[context]
+
+[context.production]
+
+[context.production.environment]
+HUGO_ENV = "production"
+
+[context.deploy-preview]
+command = "hugo --environment staging --minify -b $DEPLOY_PRIME_URL --buildFuture"
+[context.deploy-preview.environment]
+# HUGO_ENV = "staging"
+
+[context.branch-deploy]
+command = "hugo --environment staging --minify -b $DEPLOY_URL"
+[context.branch-deploy.environment]
+# HUGO_ENV = "staging"
+
+[dev]
+  command = "hugo server -e development -F -D"
+  functions = "functions"
+  publish = "public"
+  port = 8888
+  targetPort = 1313
+  framework = "#custom"
