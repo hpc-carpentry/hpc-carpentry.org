@@ -11,7 +11,7 @@ We develop and deliver workshops teaching effective and responsible use of share
 The target audience of these workshops is researchers and data scientists who need to access HPC environments and execute tasks on those systems to advance their projects.
 
 Data is produced and published in increasing size and complexity, leading to a growing need for large-scale analyses that often have specialised hardware and software requirements.
-Many research institutions and data-driven organisations have developed access to powerful, shared computing environments that allow their members to fulfil the needs of their data processing and analysis pipelines.
+Many research institutions and data-driven organisations have developed access to powerful, shared computing environments that allow their members to fulfill the needs of their data processing and analysis pipelines.
 An ability to harness these sophisticated computing resources empowers individuals to scale up their research and analyses, unlocking a range of methods and a magnitude of processing that were hitherto unavailable.
 However, many researchers do not receive routine training in these skills and the conceptual differences between HPC systems and personal computer platforms present a barrier to adoption among novices.
 
