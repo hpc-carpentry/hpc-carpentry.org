@@ -10,9 +10,9 @@ HPC Carpentry lowers the barrier to high-performance computing operations for a 
 We develop and deliver workshops teaching effective and responsible use of shared, distributed computer systems.
 The target audience of these workshops is researchers and data scientists who need to access HPC environments and execute tasks on those systems to advance their projects.
 
-Modern research is increasingly computationally intensive, and the barrier to obtaining computational resources is lower. For many researchers, this can open up a skills gap, where the expertise to make effective use of the resource, and effectively execute computational research workflows, is missing. This gap can be accentuated by the lack of computational instruction in researchers' formal backgrounds, or by the fast-moving nature of the computational landscape.
+Modern research is increasingly computationally intensive, and the barrier to obtaining computational resources is lower. For many researchers, this can open up a skills gap, where the expertise to make effective use of the resource, and effectively execute computational research workflows, is missing. This gap can be widened by the lack of computational instruction in researchers' formal backgrounds, or by the fast-moving nature of the computational landscape.
 
-It is this gap that our project addresses, using the same workshop model and pedagogy that has been successful in cloing related gaps in other Carpentries lesson programs. 
+It is this gap that our project addresses, using the same workshop model and pedagogy that has been successful in closing related gaps in other Carpentries lesson programs. 
 
 Since 2018, HPC Carpentry has been teaching people the foundational knowledge and skills necessary to access HPC systems and use them efficiently and responsibly. 
 Our hands-on workshops teach data scientists and researchers to connect to a remote HPC system, transfer data between this cluster and their personal computer, and manage the execution of processes across the resources on the cluster.
