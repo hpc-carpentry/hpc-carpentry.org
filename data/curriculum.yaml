@@ -5,7 +5,15 @@ curricula:
   repo: https://github.com/hpc-carpentry/hpc-intro
   ref: https://hpc-carpentry.github.io/hpc-intro/reference
   inst_notes: https://hpc-carpentry.github.io/hpc-intro/instructor/instructor-notes
-  maintainers: FIXME, FIXME, etc
+  maintainers:
+    - name: Marc-André Hermanns
+      handle: mahermanns
+    - name: Trevor Keller
+      handle: tkphd
+    - name: Andrew Reid
+      handle: reid-a
+    - name: Tejesh Pala
+      handle: TejeshPala
   curriculum: core
 
 - lessonname: HPC Workflow Management with Snakemake
@@ -13,5 +21,15 @@ curricula:
   repo: https://github.com/hpc-carpentry/hpc-workflows
   ref: https://hpc-carpentry.github.io/hpc-workflows/reference
   inst_notes: https://hpc-carpentry.github.io/hpc-workflows/instructor/instructor-notes
-  maintainers: FIXME, FIXME, etc
+  maintainers:
+    - name: Trevor Keller
+      handle: tkphd
+    - name: Alan O'Cais
+      handle: ocaisa
+    - name: Andrew Reid
+      handle: reid-a
+    - name: Jon Guyer
+      handle: guyer
+    - name: Florence Bockting
+      handle: florence-bockting
   curriculum: core
