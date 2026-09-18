@@ -4,7 +4,7 @@ layout: single
 hideToc: true
 ---
 
-For more information about our workshops, please see: 
+For more information about our workshops, please check: 
 
 * [List of past workshops](/workshops/workshops-past)
 * [List of upcoming workshops](/workshops/workshops-upcoming)
