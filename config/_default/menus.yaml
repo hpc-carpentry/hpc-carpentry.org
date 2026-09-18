@@ -36,11 +36,11 @@ main:
   url: "/about-us/governance/"
   parent: about-us
   weight: 20
-- identifier: curriculum-advisors
-  name:  Curriculum Advisors
-  url: "/about-us/curriculum-advisors/"
-  parent: about-us
-  weight: 30
+# - identifier: curriculum-advisors
+#   name:  Curriculum Advisors
+#   url: "/about-us/curriculum-advisors/"
+#   parent: about-us
+#   weight: 30
 # Learn Menu
 - identifier: workshops
   name: Workshops
