@@ -24,7 +24,7 @@ curricula:
   maintainers: Trevor Keller, Alan O'Cais, Andrew Reid, Jon Guyer, Florence Bockting
   curriculum: core
 
-  - lessonname: HPC Workflow Management with Maestro
+- lessonname: HPC Workflow Management with Maestro
   site: https://hpc-carpentry.github.io/HPC-workflow-lesson-maestro/
   repo: https://github.com/hpc-carpentry/HPC-workflow-lesson-maestro/
   ref: https://hpc-carpentry.github.io/HPC-workflow-lesson-maestro/reference
@@ -32,7 +32,7 @@ curricula:
   maintainers: 
   curriculum: extended
 
-  - lessonname: Introduction to High-Performance Computing in Python
+- lessonname: Introduction to High-Performance Computing in Python
   site: https://hpc-carpentry.github.io/hpc-python/
   repo: https://github.com/hpc-carpentry/hpc-python
   ref: https://hpc-carpentry.github.io/hpc-python/reference
@@ -40,7 +40,7 @@ curricula:
   maintainers: 
   curriculum: extended
 
-  - lessonname: Introduction to High-Performance Computing in Chapel 
+- lessonname: Introduction to High-Performance Computing in Chapel 
   site: https://hpc-carpentry.github.io/hpc-chapel/
   repo: https://github.com/hpc-carpentry/hpc-chapel
   ref: https://hpc-carpentry.github.io/hpc-chapel/reference
@@ -56,7 +56,7 @@ curricula:
   maintainers: 
   curriculum: extended
 
-  - lessonname:  Green software use on HPC
+- lessonname:  Green software use on HPC
   site: https://hpc-carpentry.github.io/green-software-hpc/
   repo: https://github.com/hpc-carpentry/green-software-hpc
   ref: https://hpc-carpentry.github.io/green-software-hpc/reference
@@ -64,7 +64,7 @@ curricula:
   maintainers: Andy Turner
   curriculum: extended
 
-  - lessonname: Running LAMMPS on HPC systems
+- lessonname: Running LAMMPS on HPC systems
   site: https://hpc-carpentry.github.io/tuning_lammps/
   repo: https://github.com/hpc-carpentry/tuning_lammps
   ref: https://hpc-carpentry.github.io/tuning_lammps/reference
