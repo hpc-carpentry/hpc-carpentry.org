@@ -14,7 +14,17 @@ Where Instructors or workshop hosts anticipate that learners will not yet be fam
 Please [contact us]({{< param contact >}}) with any general questions.
 
 ## Core Lessons
+The lessons listed below form the curriculum taught in a standard HPC Carpentry workshop.
 
 {{< table >}}
 {{< lesson_table curriculum="core" >}}
+{{< /table >}}
+
+## Extended Curriculum
+The lessons listed below can be used to complement the standard curriculum in an HPC Carpentry workshop.
+They are in an earlier phase of development and/or may be suitable to a more specialised audience than our core curriculum.
+Some lessons in the extended curriculum may be suitable for teaching as a standalone workshop.
+
+{{< table >}}
+{{< lesson_table curriculum="extended" >}}
 {{< /table >}}
