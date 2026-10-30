@@ -1,8 +1,8 @@
 # Logos
 logo: hpcc_logo.svg 
 logoAlt: HPC Carpentry
-logoFooter: logo-white.svg
-logoFooterAlt: HPC Carpentry  # does not exist yet
+logoFooter: carpentries-logo-footer.svg
+logoFooterAlt: The Carpentries
 
 footer_overview_text: HPC Carpentry is a lesson program of The Carpentries. 
 
@@ -20,4 +20,4 @@ carpentries-website: https://carpentries.org/
 contact: https://carpentries.org/contact
 
 # Donate 
-donate_url: https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497?utm_source=softwarecarpentry
+donate_url: https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497?utm_source=hpccarpentry
