@@ -10,7 +10,9 @@ HPC Carpentry lowers the barrier to high-performance computing operations for a 
 We develop and deliver workshops teaching the effective and responsible use of shared, distributed computer systems.
 These workshops are aimed at researchers and data scientists who need to access HPC environments and execute tasks on those systems to advance their projects.
 
-Modern research is increasingly computationally intensive, while access to more capable computational resources is becoming more widespread. For many researchers, this can create a skills gap, where the expertise needed to make effective use of these resources and execute computational research workflows is missing. This gap can be widened by the lack of computational instruction in researchers' formal backgrounds, as well as by the fast-moving nature of the computational landscape.
+Modern research is increasingly computationally intensive, while access to more capable computational resources is becoming more widespread. 
+For many researchers, this can create a skills gap, where the expertise needed to make effective use of these resources and execute computational research workflows is missing. 
+This gap can be widened by the lack of computational instruction in researchers' formal backgrounds, as well as by the fast-moving nature of the computational landscape.
 
 Our project addresses this gap using the same workshop model and pedagogy that has been successful in closing related gaps in other Carpentries lesson programs. 
 
