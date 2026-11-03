@@ -26,6 +26,11 @@ main:
   url: "/"
   parent: null
   weight: 10
+- identifier: contact-us
+  name: Contact us
+  url: "/contact-us/"
+  parent: about-us
+  weight: 10
 - identifier: hpc-carpentry
   name: HPC Carpentry
   url: /about-us/
