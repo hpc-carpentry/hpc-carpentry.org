@@ -4,9 +4,10 @@ logoAlt: HPC Carpentry
 logoFooter: carpentries-logo-footer.svg
 logoFooterAlt: The Carpentries
 
+
 footer_overview_text: HPC Carpentry is a lesson program of The Carpentries. 
 
-# git_repo:
+git_repo: https://github.com/hpc-carpentry/hpc-carpentry.org
 
 team_email: team@carpentries.org
 
